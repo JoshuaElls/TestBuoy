@@ -1,0 +1,2 @@
+assets/images/mainpng/VSCode-darwin-universal.dmg
+*.dmg # optional: ignore all .dmg files forever
